@@ -4,7 +4,7 @@ Submitted by: Graciela Salgado
 
 This web app: **PostIT, a Reddit-style app where users create posts with a title, optional text content, and an optional external image URL. The home feed shows creation time, title, and upvotes, and can be sorted or searched. Each post has its own page with content, image, comments, and an upvote button, and can be edited or deleted.**
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -69,7 +69,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/5d8998321d6c4c1aa48ec587e2c15325' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
